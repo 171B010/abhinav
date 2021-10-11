@@ -18,11 +18,7 @@ int main()
             b=a-b;
             a=a-b;
              a=a+b;
-            b=a-b;
-            a=a-b;
-             a=a+b;
-            b=a-b;
-            a=a-b;
+           
         }
         m=a;
         while(m>0)
