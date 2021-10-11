@@ -20,6 +20,9 @@ int main()
             a=a+b;
             b=a-b;
             a=a-b;
+            
+             a=a+b;
+           
         }
         m=a;
         while(m>0)
@@ -71,6 +74,10 @@ int main()
         for(j=0;j<i;j++)
         {
             z=(a/10+b%10)%10;
+            s=s*10+z;
+            a=a/10;
+            b=b/10;
+                  z=(a%10+b%10)%10;
             s=s*10+z;
             a=a/10;
             b=b/10;
