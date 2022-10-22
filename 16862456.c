@@ -15,7 +15,7 @@ int main()
         y=2;
     
         scanf("%d%d",&a,&b);
-        
+        scanf("%d%d",&a,&b);
         m=a;
         while(m>0)
         {
