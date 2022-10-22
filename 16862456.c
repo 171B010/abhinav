@@ -3,6 +3,7 @@ int main()
 {
     int i,m,t,s,a,b,j,x,y,z;
     scanf("%d",&t);
+    scanf("%d",&b);
     while(t--)
     {
       
