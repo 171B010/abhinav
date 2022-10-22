@@ -11,9 +11,6 @@ int main()
     i=0;
     
         
-        i=1;
-        y=2;
-    
         scanf("%d%d",&a,&b);
         scanf("%d%d",&a,&b);
         m=a;
